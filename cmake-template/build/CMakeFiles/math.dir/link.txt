@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libmath.a CMakeFiles/math.dir/src/c/main.c.obj CMakeFiles/math.dir/src/c/math/add.c.obj CMakeFiles/math.dir/src/c/math/minus.c.obj
+C:\MinGW\bin\ranlib.exe libmath.a

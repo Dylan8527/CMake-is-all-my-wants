@@ -1,0 +1,21 @@
+卷 Windows 的文件夹 PATH 列表
+卷序列号为 00000079 D8B2:0CD0
+C:\USERS\LENOVO\DESKTOP\CUDA\CMAKE_STUDY\CMAKE-TEMPLATE
+│  CMakeLists.txt
+│  
+├─src
+│  └─c
+│      │  cmake_template_version.h.in
+│      │  main.c
+│      │  
+│      └─math
+│              add.c
+│              add.h
+│              minus.c
+│              minus.h
+│              
+└─test
+    └─c
+            test_add.cc
+            test_minus.cc
+            
